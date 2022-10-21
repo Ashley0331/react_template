@@ -1,7 +1,7 @@
 {
   "name": "{{projectName}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "keywords": [],
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "yarn": "yarn install --network-timeout 1000000",
     "ncu": "npm run ncu"
   },
-  "author": "ztao",
+  "author": "{{author}}",
   "license": "MIT",
   "dependencies": {
     "antd": "^4.19.5",
